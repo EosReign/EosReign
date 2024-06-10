@@ -12,8 +12,7 @@
 - vsevolod_sol@mail.ru
 
 ---
-Стек Технологий:
-### Backend
+#### Stack Backend:
 
 <div align="center">  
 <a href="https://hibernate.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" height="50" /></a> 
@@ -32,7 +31,7 @@
 </div>
 </br>
 
-### FrontEnd
+#### Stack Frontend:
 <div align="center">   
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
