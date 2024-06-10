@@ -1,22 +1,20 @@
 ## Привет, меня зовут Всеволод! 
 
-Обо мне:
-Я являюсь ☕ Java Разработчиком, который стремится создавать качественные программные продукты и повышать свой уровень. Моя цель - стать экспертом в разработке масштабируемых и надежных приложений на Java. В Данный момент разрабатываю Маршрутизатор карт на основе OSM данных в Sarawan. 
-- Из объемных курсов проходил JavaRush, JetBrains Academy JS, SkyPro - JavaDeveloper, SQL Academy;
-- Из курсов поменьше:
-  - Stepik: Курсы Трегулова(Sping course for beginners, Java - BlackBelt);
-  - YouTube: 🗿ExtremeCode🗿, DMDev, Merion Academy, S0er, Илья Лисов(microservices)
+Обо мне: \
+Я являюсь ☕ Java Разработчиком, который стремится создавать качественные программные продукты и повышать свой уровень. Моя цель - стать экспертом в разработке масштабируемых и надежных приложений на Java. В Данный момент разрабатываю Маршрутизатор карт на основе OSM данных в Sarawan. \
+Из объемных курсов прошел: JavaRush, SkyPro - JavaDeveloper, SQL Academy и много других курсов меньшей часовой нагрузки(DMdev, Трегулов и т.д.) \
+Интересуюсь сейчас технологиями Kubernetes и Kafka чтобы сделать собственный проект на их основе. 
+
 ---
-Связаться со можно через:
-<br>
-<br>
+#### Связаться со мной можно через:
+
 <a href="https://t.me/EosReign" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/EosReign-grey?style=for-the-badge&logo=telegram&logoSize=auto" alt="Hibernate" height="30" /></a>
 <a href="mailto:vsevolod_sol@mail.ru" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/vsevolod_sol@mail.ru-2d47d4?style=for-the-badge&logo=Mail.Ru&logoColor=eb811e&logoSize=auto" alt="Hibernate" height="30" /></a>
 
 ---
-#### Стек Технологий
+#### Стек Технологий:
 
-<div align="center">  
+<div>  
 <a href="[https://hibernate.org/](https://www.jetbrains.com/ru-ru/idea/)" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/archive/9/9c/20200803071015%21IntelliJ_IDEA_Icon.svg" alt="IntelijIdea" height="50" /></a>
 <a href="https://hibernate.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" height="50" /></a> 
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a> 
