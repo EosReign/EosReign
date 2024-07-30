@@ -8,7 +8,7 @@
 #### Связаться со мной можно через:
 
 <a href="https://t.me/EosReign" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/EosReign-grey?style=for-the-badge&logo=telegram&logoSize=auto" alt="Hibernate" height="30" /></a>
-<a href="mailto:vsevolod_sol@mail.ru" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/vsevolod_sol@mail.ru-2d47d4?style=for-the-badge&logo=Mail.Ru&logoColor=eb811e&logoSize=auto" alt="Hibernate" height="30" /></a>
+<a href="mailto:vsevolod_sol@mail.ru" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/vsevolod__sol@mail.ru-2d47d4?style=for-the-badge&logo=Mail.Ru&logoColor=eb811e&logoSize=auto" alt="Hibernate" height="30" /></a>
 
 ---
 #### Стек Технологий:
@@ -31,12 +31,17 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
 <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/apachekafka.svg" alt="Kafka" height="50" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a> 
+<a href="https://nginx.org/ru/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" height="50" /><a/>
 </div>
 
 ---
 #### В процессе Изучения:
 <div>
 <a href="https://grpc.io/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" alt="gRPC" height="50" /></a>
+<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" alt="Grafana" height="50" /></a>
+<a href="https://jmeter.apache.org/" target="_blank"><img style="margin: 10px" src="https://jmeter.apache.org/images/logo.svg" alt="Jmeter" height="50" /></a>
+<a href="https://victoriametrics.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/VictoriaMetrics_logo.svg" alt="VictoriaMetrics" height="50" /></a>
+<a href="https://prometheus.io/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" height="50" /></a>
 </div>
 
 
