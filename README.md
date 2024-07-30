@@ -1,3 +1,7 @@
+<img src="https://github.com/user-attachments/assets/2e3a5c90-856e-4514-b766-c600d6054930" width="100%" height="5%">
+<!-- ![makiplays-retrowave](https://github.com/user-attachments/assets/2e3a5c90-856e-4514-b766-c600d6054930) -->
+
+
 ## Привет, меня зовут Всеволод! 
 
 Обо мне: \
