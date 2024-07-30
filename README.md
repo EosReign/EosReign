@@ -1,6 +1,5 @@
-<img src="https://github.com/user-attachments/assets/2e3a5c90-856e-4514-b766-c600d6054930" width="100%" height="5%">
-<!-- ![makiplays-retrowave](https://github.com/user-attachments/assets/2e3a5c90-856e-4514-b766-c600d6054930) -->
-
+<img src="https://github.com/user-attachments/assets/489ef862-e1ae-4d7a-80da-fdbaa10a25b0" width="100%" height="300px">
+<!-- ![DR4BP4M](https://github.com/user-attachments/assets/489ef862-e1ae-4d7a-80da-fdbaa10a25b0) -->
 
 ## Привет, меня зовут Всеволод! 
 
