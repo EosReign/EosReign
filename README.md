@@ -35,16 +35,15 @@
 <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/apachekafka.svg" alt="Kafka" height="50" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a> 
 <a href="https://nginx.org/ru/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" height="50" /><a/>
+<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" alt="Grafana" height="50" /></a>
+<a href="https://jmeter.apache.org/" target="_blank"><img style="margin: 10px" src="https://jmeter.apache.org/images/logo.svg" alt="Jmeter" height="50" /></a>
+<a href="https://victoriametrics.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/VictoriaMetrics_logo.svg" alt="VictoriaMetrics" height="50" /></a>
 </div>
 
 ---
 #### В процессе Изучения:
 <div>
 <a href="https://grpc.io/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" alt="gRPC" height="50" /></a>
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" alt="Grafana" height="50" /></a>
-<a href="https://jmeter.apache.org/" target="_blank"><img style="margin: 10px" src="https://jmeter.apache.org/images/logo.svg" alt="Jmeter" height="50" /></a>
-<a href="https://victoriametrics.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/VictoriaMetrics_logo.svg" alt="VictoriaMetrics" height="50" /></a>
-<a href="https://prometheus.io/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" height="50" /></a>
 </div>
 
 
