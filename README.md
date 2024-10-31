@@ -4,8 +4,9 @@
 ## Привет, меня зовут Всеволод! 
 
 Обо мне: \
-Я являюсь ☕ Java Разработчиком, который стремится создавать качественные программные продукты и повышать свой уровень. Моя цель - стать экспертом в разработке масштабируемых и надежных приложений на Java. В Данный момент разрабатываю Маршрутизатор карт на основе OSM данных в Sarawan. \
-Интересуюсь сейчас технологиями Kubernetes и Kafka чтобы сделать собственный проект на их основе. 
+Я являюсь ☕ Java Разработчиком, который стремится создавать качественные программные продукты и повышать свой уровень. Моя цель - стать экспертом в разработке масштабируемых и надежных приложений на Java. \ 
+В Данный момент разрабатываю Маршрутизатор карт на основе OSM данных в Sarawan. \
+Интересуюсь сейчас технологиями Kubernetes, Kafka дабы воссоздать микросервисную архитектуру.
 
 ---
 #### Связаться со мной можно через:
@@ -16,12 +17,13 @@
 ---
 ## Стек Технологий:
 
-### DB:
+### DB/Storage:
 <div>
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
   <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
   <a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a> 
+  <a href="https://min.io/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/02a74a89-8751-4496-9300-4ef76aee1e51" alt="minio" height="50" /></a> 
 </div>
 
 ### Repo:
@@ -52,6 +54,7 @@
 <div>
   <a href="https://testcontainers.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/13393021?s=200&v=4" alt="TestContainers" height="50" /></a>
   <a href="https://jmeter.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/a6cc8d92-8817-4242-8a5a-3f8cbda852cf" alt="Jmeter" height="50" /></a>
+  <a href="https://junit.org/junit5/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/8085056e-f16e-4f1f-a28f-66f3d41c5e3b" alt="Junit" height="50" /></a>  
 </div>
 
 ### Interservice interaction:
@@ -65,13 +68,14 @@
 <div>
   <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a> 
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
+  <a href="https://www.portainer.io/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/c1968824-840f-4c2a-b7cf-144258747077" alt="portainer" height="50" /></a>  
+  <a href="https://dbeaver.io/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/3b9b35a0-b2f6-4c01-9002-4064171bc688" alt="Dbeaver" height="50" /></a>  
   <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" alt="Grafana" height="50" /></a>
   <a href="https://victoriametrics.com/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/338a0b1a-ecf3-4a94-ba72-6fce74185c76" alt="VictoriaMetrics" height="50" /></a>
   <a href="https://nginx.org/ru/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" height="50" /><a/>
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a> 
   <a href="https://fedoraproject.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/378a8bf4-2e56-451b-9b60-572777df0a8c" alt="Fedora" height="50" /></a>  
   <a href="https://archlinux.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/4c99386a-7113-408c-9452-0f4a07370969" alt="Arch" height="50" /></a>  
-
 </div>
 
 ### Documentation:
@@ -83,22 +87,13 @@
   <a href="https://miro.com/ru/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/d1df04c8-17b9-4482-b69c-59104de155fc" alt="Miro" height="50" /></a>  
 </div>
 
-<a href="https://spring.io/projects/spring-cloud" target="_blank"><img style="margin: 10px" src="https://www.clipartmax.com/png/middle/195-1955230_cloud-gateway-spring-cloud-contract-logo.png" alt="Spring Cloud" height="50" /></a>  
-
-![изображение](![изображение](https://github.com/user-attachments/assets/cd31be45-7e7f-4358-bd1f-627fe9de7d1f)
-)
-https://www.clipartmax.com/png/middle/195-1955230_cloud-gateway-spring-cloud-contract-logo.png
+### Other:
+<div>
+  <a href="https://www.openstreetmap.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/f2996360-0b98-4965-9017-6d9c2f977f71" alt="OpenStreetMap" height="50" /></a>  
+  <a href="https://osm2pgsql.org/doc/manual.html" target="_blank"><img style="margin: 10px" src="https://osm2pgsql.org/img/logo.png" alt="osm2pgsql" height="50" /></a>  
+  <a href="https://osmcode.org/osmium-tool/" target="_blank"><img style="margin: 10px" src="https://osmcode.org/img/logo-osmium-tool.svg" alt="osmium-tool" height="50" /></a>  
+  <a href="https://www.geofabrik.de/" target="_blank"><img style="margin: 10px" src="https://www.geofabrik.de/img/gG72-white.png" alt="geofabric" height="50" /></a>  
+  <a href="https://switch2osm.org/serving-tiles/using-a-docker-container/" target="_blank"><img style="margin: 10px" src="https://switch2osm.org/" alt="switch2osm" height="50" /></a>  
+</div>
 
 <!-- https://icon-sets.iconify.design/?query=bash сайт с лого-->
-
-
-
-
-
-
-
-  
-
-
-
-
