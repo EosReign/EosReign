@@ -14,38 +14,82 @@
 <a href="mailto:vsevolod_sol@mail.ru" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/vsevolod__sol@mail.ru-2d47d4?style=for-the-badge&logo=Mail.Ru&logoColor=eb811e&logoSize=auto" alt="Hibernate" height="30" /></a>
 
 ---
-#### Стек Технологий:
+## Стек Технологий:
 
-<div>  
-<a href="[https://hibernate.org/](https://www.jetbrains.com/ru-ru/idea/)" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/archive/9/9c/20200803071015%21IntelliJ_IDEA_Icon.svg" alt="IntelijIdea" height="50" /></a>
-<a href="https://hibernate.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" height="50" /></a> 
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a> 
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a> 
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://simpleicons.org/icons/apachekafka.svg" alt="Kafka" height="50" /></a>
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a> 
-<a href="https://nginx.org/ru/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" height="50" /><a/>
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" alt="Grafana" height="50" /></a>
-<a href="https://jmeter.apache.org/" target="_blank"><img style="margin: 10px" src="https://jmeter.apache.org/images/logo.svg" alt="Jmeter" height="50" /></a>
-<a href="https://victoriametrics.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/VictoriaMetrics_logo.svg" alt="VictoriaMetrics" height="50" /></a>
-<a href="https://testcontainers.com/" target="_blank"><img style="margin: 10px" src="https://testcontainers.com/images/testcontainers-logo.svg" alt="TestContainers" height="50" /></a>
-</div>
-
----
-#### В процессе Изучения:
+### DB:
 <div>
-<a href="https://grpc.io/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" alt="gRPC" height="50" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+  <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
+  <a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a> 
 </div>
+
+### Repo:
+<div>
+  <a href="https://hibernate.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" height="50" /></a> 
+  <a href="https://r2dbc.io/" target="_blank"><img style="margin: 10px" src="https://r2dbc.io/images/PVLG-R2DBC-Icon-RGB.png" alt="r2dbc" height="50" /></a>
+  <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank"><img style="margin: 10px" src="https://v2.openhab.org/logos/jdbc.png" alt="JDBC" height="50" /></a>
+</div>
+
+
+### Programming:
+<div>
+  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a> 
+  <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
+  <a href="https://spring.io/projects/spring-data" target="_blank"><img style="margin: 10px" src="https://huongdanjava.com/wp-content/uploads/2018/01/spring-data.png" alt="Spring Data" height="50" /></a>  
+  <a href="https://docs.spring.io/spring-framework/reference/web/webflux.html" target="_blank"><img style="margin: 10px" src="https://www.ivankrizsan.se/wp-content/uploads/2019/12/spring_webflux_logo.png" alt="webflux" height="50" /></a>
+  <a href="https://spring.io/projects/spring-security" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/cd31be45-7e7f-4358-bd1f-627fe9de7d1f" alt="Spring Security" height="50" /></a>  
+  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/1fc9b415-407b-429e-a762-77d33dd72453" alt="Bash" height="50" /></a> 
+  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+  <a href="https://jwt.io/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/024671b4-92ce-434c-a86c-e1f4a12159bb" alt="JWT" height="50" /></a>
+  <a href="https://www.lua.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/6d0a57e0-cc03-4b97-b379-5c934345ca0d" alt="lua" height="50" /></a>  
+</div>
+
+### Testing:
+<div>
+  <a href="https://testcontainers.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/13393021?s=200&v=4" alt="TestContainers" height="50" /></a>
+  <a href="https://jmeter.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/a6cc8d92-8817-4242-8a5a-3f8cbda852cf" alt="Jmeter" height="50" /></a>
+</div>
+
+### Interservice interaction:
+<div>
+  <a href="https://grpc.io/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" alt="gRPC" height="50" /></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/04781713-aced-4652-8ec6-9b3b244dd29e" alt="Kafka" height="50" /></a>
+  <a href="https://en.wikipedia.org/wiki/REST" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/565c995d-00fc-4ee6-b5ac-e8979bf446b0" alt="RESTful" height="50" /></a>  
+</div>
+
+### Administration:
+<div>
+  <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a> 
+  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
+  <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" alt="Grafana" height="50" /></a>
+  <a href="https://victoriametrics.com/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/338a0b1a-ecf3-4a94-ba72-6fce74185c76" alt="VictoriaMetrics" height="50" /></a>
+  <a href="https://nginx.org/ru/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" height="50" /><a/>
+  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a> 
+  <a href="https://fedoraproject.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/378a8bf4-2e56-451b-9b60-572777df0a8c" alt="Fedora" height="50" /></a>  
+  <a href="https://archlinux.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/4c99386a-7113-408c-9452-0f4a07370969" alt="Arch" height="50" /></a>  
+
+</div>
+
+### Documentation:
+<div>
+  <a href="https://www.drawio.com/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/eb29a7e5-f4ba-45ba-bc36-7c14c7711d1d" alt="drawio" height="50" /></a>
+  <a href="https://swagger.io/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/538f8073-ac57-4143-8349-73b20fe6ef06" alt="swagger" height="50" /></a>
+  <a href="https://www.markdownguide.org/getting-started/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/bb97cc80-2ad3-4ea5-adaa-97ce9f32bb87" alt="markdown" height="50" /></a> 
+  <a href="https://www.figma.com" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/8618e961-2e50-4972-9f4b-d880615897ae" alt="Figma" height="50" /></a>  
+  <a href="https://miro.com/ru/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/d1df04c8-17b9-4482-b69c-59104de155fc" alt="Miro" height="50" /></a>  
+</div>
+
+<a href="https://spring.io/projects/spring-cloud" target="_blank"><img style="margin: 10px" src="https://www.clipartmax.com/png/middle/195-1955230_cloud-gateway-spring-cloud-contract-logo.png" alt="Spring Cloud" height="50" /></a>  
+
+![изображение](![изображение](https://github.com/user-attachments/assets/cd31be45-7e7f-4358-bd1f-627fe9de7d1f)
+)
+https://www.clipartmax.com/png/middle/195-1955230_cloud-gateway-spring-cloud-contract-logo.png
+
+<!-- https://icon-sets.iconify.design/?query=bash сайт с лого-->
 
 
 
