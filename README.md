@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/489ef862-e1ae-4d7a-80da-fdbaa10a25b0" width="100%" height="300px">
+<img src="https://github.com/user-attachments/assets/09570625-c7ba-47e4-8887-82dda9bc99db" width="100%" height="300px">
 <!-- ![DR4BP4M](https://github.com/user-attachments/assets/489ef862-e1ae-4d7a-80da-fdbaa10a25b0) -->
 
 ## Привет, меня зовут Всеволод! 
