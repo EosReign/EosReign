@@ -33,7 +33,6 @@
   <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank"><img style="margin: 10px" src="https://v2.openhab.org/logos/jdbc.png" alt="JDBC" height="50" /></a>
 </div>
 
-
 ### Programming:
 <div>
   <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a> 
@@ -48,6 +47,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
   <a href="https://jwt.io/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/024671b4-92ce-434c-a86c-e1f4a12159bb" alt="JWT" height="50" /></a>
   <a href="https://www.lua.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/6d0a57e0-cc03-4b97-b379-5c934345ca0d" alt="lua" height="50" /></a>  
+  <a href="https://ru.wikipedia.org/wiki/SQL" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/36c00784-8254-47a2-88b7-d2d0f8fa98dd" alt="sql" height="50" /></a>  
 </div>
 
 ### Testing:
@@ -97,4 +97,9 @@
   <a href="https://switch2osm.org/serving-tiles/using-a-docker-container/" target="_blank"><img style="margin: 10px" src="https://switch2osm.org/" alt="switch2osm" height="50" /></a>  
 </div>
 
-<!-- https://icon-sets.iconify.design/?query=bash сайт с лого-->
+---
+#### Откуда брать logo?
+<div>
+  <a href="https://icon-sets.iconify.design/simple-icons/iconify/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/0bdb939c-4832-4bc3-9ce6-069a121cac2a" alt="iconify" height="50" /> </a>  
+  <a href="https://shields.io/" target="_blank"><img style="margin: 10px" src="https://shields.io/img/logo.png" alt="shields.io" height="50" /> </a>  
+</div>
