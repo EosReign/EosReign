@@ -55,13 +55,14 @@
   <a href="https://testcontainers.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/13393021?s=200&v=4" alt="TestContainers" height="50" /></a>
   <a href="https://jmeter.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/a6cc8d92-8817-4242-8a5a-3f8cbda852cf" alt="Jmeter" height="50" /></a>
   <a href="https://junit.org/junit5/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/8085056e-f16e-4f1f-a28f-66f3d41c5e3b" alt="Junit" height="50" /></a>  
+  <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/d3015d84-39bb-444a-b454-38c3ccdcc858" alt="Postman" height="50" /></a>  
 </div>
 
 ### Interservice interaction:
 <div>
   <a href="https://grpc.io/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" alt="gRPC" height="50" /></a>
   <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/04781713-aced-4652-8ec6-9b3b244dd29e" alt="Kafka" height="50" /></a>
-  <a href="https://en.wikipedia.org/wiki/REST" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/565c995d-00fc-4ee6-b5ac-e8979bf446b0" alt="RESTful" height="50" /></a>  
+  <a href="https://en.wikipedia.org/wiki/REST" target="_blank"><img style="margin: 10px" src="https://www.opc-router.com/wp-content/uploads/2020/04/icon_rest_webservice_600x400px.png" alt="RESTful" height="50" /></a>  
 </div>
 
 ### Administration:
@@ -73,7 +74,7 @@
   <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" alt="Grafana" height="50" /></a>
   <a href="https://victoriametrics.com/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/338a0b1a-ecf3-4a94-ba72-6fce74185c76" alt="VictoriaMetrics" height="50" /></a>
   <a href="https://nginx.org/ru/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" height="50" /><a/>
-  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a> 
+  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/2ee8d67a-37c7-4cf8-911b-dfa654aa4fa9" alt="Linux" height="50" /></a> 
   <a href="https://fedoraproject.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/378a8bf4-2e56-451b-9b60-572777df0a8c" alt="Fedora" height="50" /></a>  
   <a href="https://archlinux.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/4c99386a-7113-408c-9452-0f4a07370969" alt="Arch" height="50" /></a>  
 </div>
