@@ -8,12 +8,6 @@
 Изучаю и практикую Микросервисную архитектуру на основе K8s.
 
 ---
-#### Связаться со мной можно через:
-
-<a href="https://t.me/EosReign" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/EosReign-grey?style=for-the-badge&logo=telegram&logoSize=auto" alt="Hibernate" height="30" /></a>
-<a href="mailto:vsevolod_sol@mail.ru" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/vsevolod__sol@mail.ru-2d47d4?style=for-the-badge&logo=Mail.Ru&logoColor=eb811e&logoSize=auto" alt="Hibernate" height="30" /></a>
-
----
 #### Коммерческие Проекты:
 
 - `Карты` - реализация аналога yandex карт на основе OpenStreetMap(Sarawan). \
@@ -22,7 +16,13 @@
   + поиск адреса по координатам, частичному вводу адреса;
   + сохранение важных точек пользователя;
   + реализация сервиса по отображению тайлов карт;
-- `Курсы` - реализация аналога Stepik(Sarawan). 
+- `Курсы` - реализация аналога Stepik(Sarawan).
+
+---
+#### Связаться со мной можно через:
+
+<a href="https://t.me/EosReign" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/EosReign-grey?style=for-the-badge&logo=telegram&logoSize=auto" alt="Hibernate" height="30" /></a>
+<a href="mailto:vsevolod_sol@mail.ru" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/vsevolod__sol@mail.ru-2d47d4?style=for-the-badge&logo=Mail.Ru&logoColor=eb811e&logoSize=auto" alt="Hibernate" height="30" /></a>
 
 ---
 ## Стек Технологий:
