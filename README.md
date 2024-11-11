@@ -5,14 +5,24 @@
 
 Обо мне: \
 Я являюсь ☕ Java Разработчиком, который стремится создавать качественные программные продукты и повышать свой уровень. Моя цель - стать экспертом в разработке масштабируемых и надежных приложений на Java. \ 
-В Данный момент разрабатываю Маршрутизатор карт на основе OSM данных в Sarawan. \
-Интересуюсь сейчас технологиями Kubernetes, Kafka дабы воссоздать микросервисную архитектуру.
+Изучаю и практикую Микросервисную архитектуру на основе K8s.
 
 ---
 #### Связаться со мной можно через:
 
 <a href="https://t.me/EosReign" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/EosReign-grey?style=for-the-badge&logo=telegram&logoSize=auto" alt="Hibernate" height="30" /></a>
 <a href="mailto:vsevolod_sol@mail.ru" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/vsevolod__sol@mail.ru-2d47d4?style=for-the-badge&logo=Mail.Ru&logoColor=eb811e&logoSize=auto" alt="Hibernate" height="30" /></a>
+
+---
+#### Коммерческие Проекты:
+
+- `Карты` - реализация аналога yandex карт на основе OpenStreetMap(Sarawan). \
+  Реализованы фичи:
+  + построение маршрута различными видами транспорта и пешком;
+  + поиск адреса по координатам, частичному вводу адреса;
+  + сохранение важных точек пользователя;
+  + реализация сервиса по отображению тайлов карт;
+- `Курсы` - реализация аналога Stepik(Sarawan). 
 
 ---
 ## Стек Технологий:
