@@ -46,13 +46,6 @@
   <a href="https://min.io/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/02a74a89-8751-4496-9300-4ef76aee1e51" alt="minio" height="50" /></a> 
 </div>
 
-### Repo:
-<div>
-  <a href="https://hibernate.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" height="50" /></a> 
-  <a href="https://r2dbc.io/" target="_blank"><img style="margin: 10px" src="https://r2dbc.io/images/PVLG-R2DBC-Icon-RGB.png" alt="r2dbc" height="50" /></a>
-  <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank"><img style="margin: 10px" src="https://v2.openhab.org/logos/jdbc.png" alt="JDBC" height="50" /></a>
-</div>
-
 ### Technology:
 <div>
   <a href="https://www.graalvm.org/" target="_blank"><img style="margin: 10px" src="https://www.graalvm.org/resources/img/brand-guidelines/logo_graalvm_brand.svg" alt="GraalVM" height="50" /></a>
@@ -63,21 +56,16 @@
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
   <a href="https://jwt.io/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/024671b4-92ce-434c-a86c-e1f4a12159bb" alt="JWT" height="50" /></a>
-</div>
-
-### Testing:
-<div>
+  <a href="https://grpc.io/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" alt="gRPC" height="50" /></a>
+  <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/04781713-aced-4652-8ec6-9b3b244dd29e" alt="Kafka" height="50" /></a>
+  <a href="https://en.wikipedia.org/wiki/REST" target="_blank"><img style="margin: 10px" src="https://www.opc-router.com/wp-content/uploads/2020/04/icon_rest_webservice_600x400px.png" alt="RESTful" height="50" /></a>  
   <a href="https://testcontainers.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/13393021?s=200&v=4" alt="TestContainers" height="50" /></a>
   <a href="https://jmeter.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/a6cc8d92-8817-4242-8a5a-3f8cbda852cf" alt="Jmeter" height="50" /></a>
   <a href="https://junit.org/junit5/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/8085056e-f16e-4f1f-a28f-66f3d41c5e3b" alt="Junit" height="50" /></a>  
   <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/d3015d84-39bb-444a-b454-38c3ccdcc858" alt="Postman" height="50" /></a>  
-</div>
-
-### Interservice interaction:
-<div>
-  <a href="https://grpc.io/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" alt="gRPC" height="50" /></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/04781713-aced-4652-8ec6-9b3b244dd29e" alt="Kafka" height="50" /></a>
-  <a href="https://en.wikipedia.org/wiki/REST" target="_blank"><img style="margin: 10px" src="https://www.opc-router.com/wp-content/uploads/2020/04/icon_rest_webservice_600x400px.png" alt="RESTful" height="50" /></a>  
+  <a href="https://hibernate.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" height="50" /></a> 
+  <a href="https://r2dbc.io/" target="_blank"><img style="margin: 10px" src="https://r2dbc.io/images/PVLG-R2DBC-Icon-RGB.png" alt="r2dbc" height="50" /></a>
+  <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank"><img style="margin: 10px" src="https://v2.openhab.org/logos/jdbc.png" alt="JDBC" height="50" /></a>
 </div>
 
 ### Administration:
