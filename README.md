@@ -11,11 +11,6 @@
 #### Коммерческие Проекты:
 
 - `Карты` - реализация аналога yandex карт на основе OpenStreetMap(Sarawan). \
-  Реализованы фичи:
-  + построение маршрута различными видами транспорта и пешком;
-  + поиск адреса по координатам, частичному вводу адреса;
-  + сохранение важных точек пользователя;
-  + реализация сервиса по отображению тайлов карт;
 - `Курсы` - реализация аналога Stepik(Sarawan).
 
 ---
@@ -26,6 +21,21 @@
 
 ---
 ## Стек Технологий:
+
+### Languages:
+<div>
+  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/1fc9b415-407b-429e-a762-77d33dd72453" alt="Bash" height="50" /></a> 
+    <a href="https://ru.wikipedia.org/wiki/SQL" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/36c00784-8254-47a2-88b7-d2d0f8fa98dd" alt="SQL" height="50" /></a>
+  <a href="https://www.lua.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/6d0a57e0-cc03-4b97-b379-5c934345ca0d" alt="Lua" height="50" /></a>  
+  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="JS" height="50" /></a>
+</div>
+
+### Frameworks:
+<div>
+<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
+  <a href="" target="_blank"><img style="margin: 10px" src="https://quarkus.io/assets/images/brand/quarkus_icon_256px_default.png" alt="Quarkus" height="50" /></a>
+</div>
 
 ### DB/Storage:
 <div>
@@ -43,21 +53,16 @@
   <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank"><img style="margin: 10px" src="https://v2.openhab.org/logos/jdbc.png" alt="JDBC" height="50" /></a>
 </div>
 
-### Programming:
+### Technology:
 <div>
-  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a> 
-  <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-  <a href="https://spring.io/projects/spring-data" target="_blank"><img style="margin: 10px" src="https://huongdanjava.com/wp-content/uploads/2018/01/spring-data.png" alt="Spring Data" height="50" /></a>  
+  <a href="https://www.graalvm.org/" target="_blank"><img style="margin: 10px" src="https://www.graalvm.org/resources/img/brand-guidelines/logo_graalvm_brand.svg" alt="GraalVM" height="50" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
+  <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a> 
   <a href="https://docs.spring.io/spring-framework/reference/web/webflux.html" target="_blank"><img style="margin: 10px" src="https://www.ivankrizsan.se/wp-content/uploads/2019/12/spring_webflux_logo.png" alt="webflux" height="50" /></a>
-  <a href="https://spring.io/projects/spring-security" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/cd31be45-7e7f-4358-bd1f-627fe9de7d1f" alt="Spring Security" height="50" /></a>  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/1fc9b415-407b-429e-a762-77d33dd72453" alt="Bash" height="50" /></a> 
-  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
   <a href="https://jwt.io/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/024671b4-92ce-434c-a86c-e1f4a12159bb" alt="JWT" height="50" /></a>
-  <a href="https://www.lua.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/6d0a57e0-cc03-4b97-b379-5c934345ca0d" alt="lua" height="50" /></a>  
-  <a href="https://ru.wikipedia.org/wiki/SQL" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/36c00784-8254-47a2-88b7-d2d0f8fa98dd" alt="sql" height="50" /></a>  
 </div>
 
 ### Testing:
@@ -77,16 +82,14 @@
 
 ### Administration:
 <div>
-  <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a> 
-  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
   <a href="https://www.portainer.io/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/c1968824-840f-4c2a-b7cf-144258747077" alt="portainer" height="50" /></a>  
   <a href="https://dbeaver.io/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/3b9b35a0-b2f6-4c01-9002-4064171bc688" alt="Dbeaver" height="50" /></a>  
   <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" alt="Grafana" height="50" /></a>
   <a href="https://victoriametrics.com/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/338a0b1a-ecf3-4a94-ba72-6fce74185c76" alt="VictoriaMetrics" height="50" /></a>
-  <a href="https://nginx.org/ru/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" height="50" /><a/>
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/2ee8d67a-37c7-4cf8-911b-dfa654aa4fa9" alt="Linux" height="50" /></a> 
   <a href="https://fedoraproject.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/378a8bf4-2e56-451b-9b60-572777df0a8c" alt="Fedora" height="50" /></a>  
   <a href="https://archlinux.org/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/4c99386a-7113-408c-9452-0f4a07370969" alt="Arch" height="50" /></a>  
+  <a href="https://ubuntu.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1024px-Logo-ubuntu_cof-orange-hex.svg.png" alt="Ubuntu" height="50" /></a>  
 </div>
 
 ### Documentation:
